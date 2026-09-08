@@ -1,6 +1,6 @@
 <?php
 namespace ElegenceIO\Contracts\Containers;
-use ElegenceIO\Foundation\Containers\Container;
+use ElegenceIO\Containers\Container;
 
 
 interface ServiceProviders
