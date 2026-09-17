@@ -3,7 +3,6 @@
     "description": "Interface management for lazarusphp framework",
     "autoload": {
         "psr-4": {
-            "ElegenceIO\\Contracts\\": "src/"
         }
     },
     "require": {}
