@@ -6,6 +6,6 @@ use ElegenceIO\Containers\Container;
 
 interface BootstrapKernel
 {
-public function __construct(Container $container,object $configs,mixed $request);
+public function __construct(Container $container,mixed $request);
 public function boot():Container;
 }
