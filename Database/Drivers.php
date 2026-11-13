@@ -1,5 +1,5 @@
 <?php
-namespace ElegenceIO\Contracts\Orm\Database;
+namespace ElegenceIO\Contracts\Database;
 
 interface Drivers
 {
